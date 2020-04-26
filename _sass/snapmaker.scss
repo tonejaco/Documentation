@@ -4,7 +4,7 @@
 .sm-sidebar {
     position: sticky;
     height: subtract(100vh, 4rem);
-    border-right: 1px solid #e5e5e5;
+    border-right: 2px solid #e5e5e5;
     order: 0;
     top: 4rem;
     z-index: 1000;
@@ -27,7 +27,7 @@
 }
 .sm-sidenav.nav > li > a:hover {
     text-decoration: none;
-    color: rgba(0, 0, 0, 0.85);
+    color: rgba(0, 0, 255, 0.85);
 }
 .sm-sidenav.nav > li.active {
     background-color: #e5e5e5;
