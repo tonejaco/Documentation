@@ -28,9 +28,10 @@
 .sm-sidenav.nav > li > a:hover {
     text-decoration: none;
     color: rgba(0, 0, 255, 0.85);
+    background-color: #ccffff;
 }
 .sm-sidenav.nav > li.active {
-    background-color: #ccffff;
+    background-color: #e5e5e5;
 }
 .sm-sidenav.nav > li.active > a {
     color: rgba(0, 0, 0, 0.85);
